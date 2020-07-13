@@ -15,8 +15,8 @@ class CashRegister
   def add_item_2(cost, name, number = 1)
     self.total = cost * number
 
-  def apply_discount 
-
+  def apply_discount
+    
   end 
   
   def items
